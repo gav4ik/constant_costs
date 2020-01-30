@@ -9,7 +9,7 @@ from src.POMProjectDemo.Pages.loginPage import LoginPage
 from src.POMProjectDemo.Pages.HomePage import HomePage
 
 
-
+# Lib for Basic authorization
 class LoginTest(unittest.TestCase):
 
     @classmethod
